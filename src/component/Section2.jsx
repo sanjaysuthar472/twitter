@@ -7,7 +7,7 @@ function Section2() {
       <div className="top flex p-3 sticky top-0 bg-black backdrop-blur opacity-80">
         <div className="absolute w-16 h-1 rounded-full bg-blue-500 bottom-0 left-[19%] z-10"></div>
         <div className="left bg-red-3001 w-1/2 flex justify-center font-bold text-lg">
-          For You sanjay suthar
+          For You
         </div>
         <div className="right bg-green-3001 w-1/2 flex justify-center font-bold text-lg">
           Following
